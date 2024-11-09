@@ -10,7 +10,7 @@ I'm open to collaborating on machine learning projects. If you have an exciting 
 
 📫 How to Reach Me:
 Email me at: azamkp05@gmail.com
-LinkedIn: linkedin.com/in/azam-khan-ind
+LinkedIn: https://www.linkedin.com/in/azam-khan-ind
 
 😄 Pronouns:
 He/Him
