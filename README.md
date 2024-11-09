@@ -1,23 +1,60 @@
-# Hi there, I'm Azam Khan! 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
 
-### 👀 Interests:
 
-I’m passionate about machine learning with a strong foundation in ML algorithms, tools, and techniques and its applications.
 
-### 🌱 Currently Learning:
+<!-- About Section -->
+<section id="about" class="container my-5">
+    <div class="row">
+        <div class="col-md-4 text-center">
+            <h1>Hi there, I'm Azam Khan! 👋</h1>
+            <p class="lead">Machine Learning Enthusiast</p>
+        </div>
+        <div class="col-md-8">
+            <h3>About Me</h3>
+            <p>👀 <strong>Interests:</strong><br> I’m passionate about machine learning and artificial intelligence, with a strong foundation in ML algorithms, tools, and techniques. My main focus is on deep learning and its real-world applications.</p>
+            <p>🌱 <strong>Currently Learning:</strong> <br> I’m currently advancing my expertise in deep learning frameworks and exploring cutting-edge methodologies to build impactful, scalable models.</p>
+            <p>💞️ <strong>Looking to Collaborate On:</strong> <br> I'm excited to collaborate on machine learning projects—especially those that push the boundaries of AI. Let’s work together to build innovative solutions!</p>
+            <p>⚡ <strong>Fun Fact:</strong><br> I believe technology has limitless potential, and each new project offers a chance to push boundaries and create something impactful!</p>
+        </div>
+    </div>
+</section>
 
-Currently, I'm diving deeper into deep learning frameworks and tools to build more complex models and solve real-world challenges.
+<!-- Tech Stack Section -->
+<section id="tech-stack" class="container my-5">
+    <h3 class="text-center">🛠️ Tech Stack</h3>
+    <div class="row text-center mt-4">
+        <div class="col-6 col-md-4"><i class="fab fa-python"></i> Python</div>
+        <div class="col-6 col-md-4"><i class="fas fa-database"></i> SQL</div>
+        <div class="col-6 col-md-4"><i class="fab fa-js-square"></i> R</div>
+        <div class="col-6 col-md-4"><i class="fab fa-python"></i> Scikit-Learn</div>
+        <div class="col-6 col-md-4"><i class="fas fa-database"></i> Pandas</div>
+        <div class="col-6 col-md-4"><i class="fas fa-brain"></i> TensorFlow</div>
+        <div class="col-6 col-md-4"><i class="fas fa-brain"></i> Keras</div>
+        <div class="col-6 col-md-4"><i class="fas fa-brain"></i> PyTorch</div>
+        <div class="col-6 col-md-4"><i class="fas fa-chart-line"></i> Matplotlib</div>
+    </div>
+</section>
 
-### 💞️ Looking to Collaborate On:
+<!-- Contact Section -->
+<section id="contact" class="container my-5 text-center">
+    <h3>📫 How to Reach Me</h3>
+    <p>Email: <a href="mailto:azamkp05@gmail.com">azamkp05@gmail.com</a></p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/azam-khan-ind" target="_blank">Azam Khan</a></p>
+</section>
 
-I'm open to collaborating on machine learning projects. If you have an exciting ML or AI project, feel free to reach out—I’d love to contribute and learn together!
 
-### 📫 How to Reach Me:
+<!-- Bootstrap & FontAwesome JS -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://kit.fontawesome.com/a076d05399.js"></script>
 
-Email me at: azamkp05@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/azam-khan-ind
-
-### 😄 Pronouns:
-
-He/Him
+</body>
+</html>
