@@ -31,15 +31,13 @@
 <section id="tech-stack" class="container my-5">
     <h3 class="text-center">🛠️ Tech Stack</h3>
     <div class="row text-center mt-4">
+        <div class="col-6 col-md-4"><i class="fab fa-python"></i>Machine Learning</div>
         <div class="col-6 col-md-4"><i class="fab fa-python"></i> Python</div>
-        <div class="col-6 col-md-4"><i class="fas fa-database"></i> SQL</div>
-        <div class="col-6 col-md-4"><i class="fab fa-js-square"></i> R</div>
         <div class="col-6 col-md-4"><i class="fab fa-python"></i> Scikit-Learn</div>
+        <div class="col-6 col-md-4"><i class="fas fa-database"></i> SQL</div>
         <div class="col-6 col-md-4"><i class="fas fa-database"></i> Pandas</div>
-        <div class="col-6 col-md-4"><i class="fas fa-brain"></i> TensorFlow</div>
-        <div class="col-6 col-md-4"><i class="fas fa-brain"></i> Keras</div>
-        <div class="col-6 col-md-4"><i class="fas fa-brain"></i> PyTorch</div>
         <div class="col-6 col-md-4"><i class="fas fa-chart-line"></i> Matplotlib</div>
+        <div class="col-6 col-md-4"><i class="fas fa-chart-line"></i> Numpy</div>
     </div>
 </section>
 
@@ -49,12 +47,6 @@
     <p>Email: <a href="mailto:azamkp05@gmail.com">azamkp05@gmail.com</a></p>
     <p>LinkedIn: <a href="https://www.linkedin.com/in/azam-khan-ind" target="_blank">Azam Khan</a></p>
 </section>
-
-
-<!-- Bootstrap & FontAwesome JS -->
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"></script>
-<script src="https://kit.fontawesome.com/a076d05399.js"></script>
 
 </body>
 </html>
