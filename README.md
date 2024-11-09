@@ -2,7 +2,7 @@
 
 ### 👀 Interests:
 
-I’m passionate about machine learning and artificial intelligence its applications.
+I’m passionate about machine learning with a strong foundation in ML algorithms, tools, and techniques and its applications.
 
 ### 🌱 Currently Learning:
 
