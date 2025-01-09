@@ -5,6 +5,30 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap CSS -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+
+/* Styling for Tech Stack Section */
+
+.tech-card {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 10px;
+    text-align: center;
+    background-color: #f9f9f9;
+    transition: transform 0.3s ease;
+}
+
+.tech-card:hover {
+    transform: translateY(-10px);
+}
+
+.tech-icon {
+    width: 60px;
+    height: 60px;
+    margin-bottom: 10px;
+}
+
+
 </head>
 <body>
 
@@ -31,17 +55,73 @@
 <section id="tech-stack" class="container my-5">
     <h3 class="text-center">🛠️ Tech Stack</h3>
     <div class="row text-center mt-4">
-        <div class="col-6 col-md-4"><i class="fab fa-python"></i> Data Analytics</div>
-        <div class="col-6 col-md-4"><i class="fab fa-python"></i> Machine Learning</div>
-        <div class="col-6 col-md-4"><i class="fas fa-database"></i> SQL</div>
-        <div class="col-6 col-md-4"><i class="fab fa-python"></i> Python</div>
-        <div class="col-6 col-md-4"><i class="fas fa-chart-line"></i> Power Bi</div>
-        <div class="col-6 col-md-4"><i class="fab fa-python"></i> Scikit-Learn</div>
-        <div class="col-6 col-md-4"><i class="fas fa-database"></i> Pandas</div>
-        <div class="col-6 col-md-4"><i class="fas fa-chart-line"></i> Numpy</div>
-        <div class="col-6 col-md-4"><i class="fas fa-chart-line"></i> Matplotlib</div>
+        <!-- Card 1 -->
+        <div class="col-6 col-md-2">
+            <div class="tech-card">
+                <img src="path/to/python-image.png" alt="Python Logo" class="tech-icon">
+                <p>Data Analytics</p>
+            </div>
+        </div>
+        <!-- Card 2 -->
+        <div class="col-6 col-md-2">
+            <div class="tech-card">
+                <img src="path/to/python-image.png" alt="Python Logo" class="tech-icon">
+                <p>Machine Learning</p>
+            </div>
+        </div>
+        <!-- Card 3 -->
+        <div class="col-6 col-md-2">
+            <div class="tech-card">
+                <img src="path/to/sql-image.png" alt="SQL Logo" class="tech-icon">
+                <p>SQL</p>
+            </div>
+        </div>
+        <!-- Card 4 -->
+        <div class="col-6 col-md-2">
+            <div class="tech-card">
+                <img src="path/to/python-image.png" alt="Python Logo" class="tech-icon">
+                <p>Python</p>
+            </div>
+        </div>
+        <!-- Card 5 -->
+        <div class="col-6 col-md-2">
+            <div class="tech-card">
+                <img src="path/to/powerbi-image.png" alt="Power BI Logo" class="tech-icon">
+                <p>Power BI</p>
+            </div>
+        </div>
+        <!-- Card 6 -->
+        <div class="col-6 col-md-2">
+            <div class="tech-card">
+                <img src="path/to/scikit-image.png" alt="Scikit-Learn Logo" class="tech-icon">
+                <p>Scikit-Learn</p>
+            </div>
+        </div>
+    </div>
+    <div class="row text-center mt-4">
+        <!-- Additional rows if more cards are needed -->
+        <div class="col-6 col-md-2">
+            <div class="tech-card">
+                <img src="path/to/pandas-image.png" alt="Pandas Logo" class="tech-icon">
+                <p>Pandas</p>
+            </div>
+        </div>
+        <div class="col-6 col-md-2">
+            <div class="tech-card">
+                <img src="path/to/numpy-image.png" alt="Numpy Logo" class="tech-icon">
+                <p>Numpy</p>
+            </div>
+        </div>
+        <div class="col-6 col-md-2">
+            <div class="tech-card">
+                <img src="path/to/matplotlib-image.png" alt="Matplotlib Logo" class="tech-icon">
+                <p>Matplotlib</p>
+            </div>
+        </div>
     </div>
 </section>
+
+
 
 <!-- Contact Section -->
 <section id="contact" class="container my-5 text-center">
