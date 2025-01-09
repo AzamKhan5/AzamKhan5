@@ -6,28 +6,6 @@
     <!-- Bootstrap CSS -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 
-/* Styling for Tech Stack Section */
-
-.tech-card {
-    border: 1px solid #ddd;
-    border-radius: 10px;
-    padding: 15px;
-    margin: 10px;
-    text-align: center;
-    background-color: #f9f9f9;
-    transition: transform 0.3s ease;
-}
-
-.tech-card:hover {
-    transform: translateY(-10px);
-}
-
-.tech-icon {
-    width: 60px;
-    height: 60px;
-    margin-bottom: 10px;
-}
-
 
 </head>
 <body>
