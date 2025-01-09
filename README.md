@@ -15,7 +15,7 @@
     <div class="row">
         <div class="col-md-4 text-center">
             <h1>Hi there, I'm Azam Khan! 👋</h1>
-            <p class="lead">Machine Learning Enthusiast</p>
+            <p class="lead">Data Analyst | Machine Learning Enthusiast</p>
         </div>
         <div class="col-md-8">
             <h3>About Me</h3>
