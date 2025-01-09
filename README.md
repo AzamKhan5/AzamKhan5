@@ -31,13 +31,15 @@
 <section id="tech-stack" class="container my-5">
     <h3 class="text-center">🛠️ Tech Stack</h3>
     <div class="row text-center mt-4">
-        <div class="col-6 col-md-4"><i class="fab fa-python"></i>Machine Learning</div>
-        <div class="col-6 col-md-4"><i class="fab fa-python"></i> Python</div>
-        <div class="col-6 col-md-4"><i class="fab fa-python"></i> Scikit-Learn</div>
+        <div class="col-6 col-md-4"><i class="fab fa-python"></i> Data Analytics</div>
+        <div class="col-6 col-md-4"><i class="fab fa-python"></i> Machine Learning</div>
         <div class="col-6 col-md-4"><i class="fas fa-database"></i> SQL</div>
+        <div class="col-6 col-md-4"><i class="fab fa-python"></i> Python</div>
+        <div class="col-6 col-md-4"><i class="fas fa-chart-line"></i> Power Bi</div>
+        <div class="col-6 col-md-4"><i class="fab fa-python"></i> Scikit-Learn</div>
         <div class="col-6 col-md-4"><i class="fas fa-database"></i> Pandas</div>
-        <div class="col-6 col-md-4"><i class="fas fa-chart-line"></i> Matplotlib</div>
         <div class="col-6 col-md-4"><i class="fas fa-chart-line"></i> Numpy</div>
+        <div class="col-6 col-md-4"><i class="fas fa-chart-line"></i> Matplotlib</div>
     </div>
 </section>
 
