@@ -17,7 +17,7 @@
     <div class="row">
         <div class="col-md-4 text-center">
             <h1>Hi there, I'm Azam Khan! 👋</h1>
-            <p class="lead">Data Analyst | Machine Learning Enthusiast</p>
+            <p class="lead">Data Analyst | Skilled in Python, SQL, Power BI & Tableau | Expertise in Predictive Modeling, Machine Learning, & Data Visualization | Delivering Actionable Insights for Strategic Decision-Making</p>
         </div>
         <div class="col-md-8">
             <h3>About Me</h3>
