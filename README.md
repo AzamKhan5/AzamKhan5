@@ -1,15 +1,15 @@
 # Hi there, I'm Azam Khan! 👋  
 
-### **Data Analyst | Skilled in Python, SQL, Power BI & Tableau**  
+### **Growing Data Science & ML Practitioner**  
+**Python, Scikit-learn, TensorFlow, SQL, Power BI, Tableau**  
 **Expertise in Predictive Modeling, Machine Learning, & Data Visualization**  
-**Delivering Actionable Insights for Strategic Decision-Making**  
 
 ---
 
 ## 🚀 **About Me**  
 
 👀 **Interests:**  
-I’m passionate about **machine learning and artificial intelligence**, with a strong foundation in ML algorithms, tools, and techniques. My main focus is on **deep learning** and its real-world applications.  
+I’m passionate about **machine learning and artificial intelligence**, with a strong foundation in ML algorithms, tools, and techniques. My main focus is on **AI/ML** and its real-world applications.  
 
 🌱 **Currently Learning:**  
 I’m currently advancing my expertise in **deep learning frameworks** and exploring cutting-edge methodologies to build **impactful, scalable models**.  
