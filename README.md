@@ -2,20 +2,20 @@
 
 ### **Growing Data Science & ML Practitioner**  
 **Python, Scikit-learn, TensorFlow, SQL, Power BI, Tableau**  
-**Expertise in Predictive Modeling, Machine Learning, & Data Visualization**  
+**Expertise in Predictive Modeling, Machine Learning, Deep Learning & Data Visualization**  
 
 ---
 
 ## 🚀 **About Me**  
 
 👀 **Interests:**  
-I’m passionate about **machine learning and artificial intelligence**, with a strong foundation in ML algorithms, tools, and techniques. My main focus is on **AI/ML** and its real-world applications.  
+I’m passionate about **machine learning, deep learning, and artificial intelligence**, with a strong foundation in ML/DL algorithms, tools, and techniques. My main focus is on **AI/ML, NLP, and neural networks** and their real-world applications.  
 
 🌱 **Currently Learning:**  
-I’m currently advancing my expertise in **deep learning frameworks** and exploring cutting-edge methodologies to build **impactful, scalable models**.  
+I’m currently advancing my expertise in **deep learning frameworks (CNNs, RNNs, NLP models)** and exploring cutting-edge methodologies to build **impactful, scalable models**.  
 
 💞️ **Looking to Collaborate On:**  
-I'm excited to collaborate on **machine learning projects**—especially those that **push the boundaries of AI**. Let’s work together to build innovative solutions!  
+I'm excited to collaborate on **machine learning & deep learning projects**—especially those that **push the boundaries of AI**. Let’s work together to build innovative solutions!  
 
 ⚡ **Fun Fact:**  
 I believe **technology has limitless potential**, and each new project offers a chance to push boundaries and create something impactful!  
@@ -37,12 +37,19 @@ I believe **technology has limitless potential**, and each new project offers a 
     <td align="center"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge&logo=matplotlib&logoColor=white"></td>
-    <td align="center"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logo=python&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"></td>
-    <td align="center"><img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"></td>
   </tr>
   <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/CNN-4285F4?style=for-the-badge&logo=google&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/RNN-34A853?style=for-the-badge&logo=google&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/NLP-FF4500?style=for-the-badge&logo=semanticweb&logoColor=white"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></td>
