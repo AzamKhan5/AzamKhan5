@@ -2,7 +2,7 @@
 
 ### **Growing Data Science & ML Practitioner**  
 **Python, Scikit-learn, TensorFlow, SQL, Power BI, Tableau**  
-**Expertise in Predictive Modeling, Machine Learning, Deep Learning & Data Visualization**  
+**Expertise in Machine Learning, Deep Learning, NLP & Data Visualization**  
 
 ---
 
