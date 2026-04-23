@@ -24,15 +24,8 @@ I believe in building **impact-driven AI solutions** that bridge the gap between
 ## 💼 **Experience**  
 
 ### 🧠 AI Intern — SyncAI Technologies *(Feb 2026 – Present)*  
-- Working on **AI workflows, automation, and production-ready AI systems**  
-- Building **chatbots using APIs + Zapier integrations**  
-- Learning **Prompt Engineering & LLM optimization techniques**  
 
 ### ⚙️ ML Engineer Intern — Robotronix Engineering *(Aug 2024 – Nov 2024)*  
-- Built **Multi-Disease Prediction System (93% accuracy)**  
-- Improved model accuracy by **15%** and reduced overfitting by **20%** :contentReference[oaicite:0]{index=0}  
-- Processed **50,000+ records for data-driven insights**  
-- Deployed models using **Flask APIs for real-time predictions**  
 
 ---
 
